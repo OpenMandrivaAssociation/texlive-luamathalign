@@ -1,6 +1,6 @@
 Name:		texlive-luamathalign
 Version:	63226
-Release:	1
+Release:	2
 Summary:	More flexible alignment in amsmath environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luamathalign
