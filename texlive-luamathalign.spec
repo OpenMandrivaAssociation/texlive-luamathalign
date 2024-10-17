@@ -3,7 +3,7 @@ Version:	63226
 Release:	2
 Summary:	More flexible alignment in amsmath environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luamathalign
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luamathalign
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luamathalign.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luamathalign.doc.r%{version}.tar.xz
